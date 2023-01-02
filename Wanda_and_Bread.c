@@ -5,10 +5,9 @@ int main()
 {
     int n,m,k;
     scanf("%d%d%d",&n,&m,&k);
-    if(m * k < n)
+    if(m * k< n)
     {
         printf("NO");
-        
         
         
     }
@@ -16,6 +15,7 @@ int main()
     else
     {
         printf("YES");
-        
     }
+    
+    
 }
