@@ -36,5 +36,3 @@ int main()
     perfect(n);
     deficient(n);
 }
-
-
